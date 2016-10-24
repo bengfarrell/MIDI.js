@@ -1,5 +1,5 @@
 {
-  "name": "midi",
+  "name": "midijs",
   "version": "0.3.0",
   "description": "Library to assist in creating HTML5 MIDI apps.",
   "author": "Michael Deal",
